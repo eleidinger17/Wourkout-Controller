@@ -7,3 +7,10 @@ Workout-Controller soll eine benutzerfreundliche Applikation werden, die den Ben
 ![](https://github.com/eleidinger17/Wourkout-Controller/blob/main/assets/MainScreen.PNG)
 ![](https://github.com/eleidinger17/Wourkout-Controller/blob/main/assets/WorkoutScreen.PNG)
 ![](https://github.com/eleidinger17/Wourkout-Controller/blob/main/assets/OptionsScreen.PNG)
+
+## Fragment
+
+![](https://github.com/eleidinger17/Wourkout-Controller/blob/main/assets/OptionsScreen.PNG)
+
+Auf der linken Seite des Bildschirms sind die vom user erstellten Workouts zu sehen. Wählt er eine dieser aus, erscheint 
+eine detaillierte Activity, welche detailliertere Angaben zum jeweiligen Workout anzeigt.
