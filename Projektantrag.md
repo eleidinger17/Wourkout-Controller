@@ -14,3 +14,10 @@ Workout-Controller soll eine benutzerfreundliche Applikation werden, die den Ben
 
 Auf der linken Seite des Bildschirms sind die vom user erstellten Workouts zu sehen. Wählt er eine dieser aus, erscheint 
 eine detaillierte Activity, welche detailliertere Angaben zum jeweiligen Workout anzeigt.
+
+## Beschreibung der Anbindung an die API's
+
+ Über die Public Holidays API von https://www.abstractapi.com/holidays-api wird bestimmt welche Tage Feiertage sind und welche nicht. 
+ Bei der Registrierung auf der Seite bekommt man den nötigen API-Key.
+ 
+ Es wird ein API Key benötigt um sich auf der Seite anzumelden.
