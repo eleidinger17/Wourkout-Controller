@@ -1,7 +1,7 @@
-# Projektantrag
+# project application
 
 ## Description
-Workout-Controller soll eine benutzerfreundliche Applikation werden, die den Benutzer ermöglicht Workouts besser aufzuzeichnen. Es besteht auch die Möglichkeit eigene Workouts zu erstellen so wie die benützten Gewichte und Wiederholungen pro Übung zu bearbeiten und diese zu speichern. Zudem ist es möglich Vorher/Nacher Fotos zu machen. Ein weiteres Feature ist das man an Feiertagen eine Notification macht das man nicht ins Gym gehen kann.
+Workout-Controller should be a userfriendly applikation, the user should be abled to save workouts. The user should be abled to create his own workouts as well as the amount of weights that were used and the repetitions for each exersice(You have to be abled to edit and save them). Furthermore you have to be abled to take before/after pictures . Another Feature is that you will get a notification is closed today due to a holiday(API).
 
 ## Mockups
 ![](https://github.com/eleidinger17/Wourkout-Controller/blob/main/assets/MainScreen.PNG)
@@ -12,12 +12,11 @@ Workout-Controller soll eine benutzerfreundliche Applikation werden, die den Ben
 
 ![](https://github.com/eleidinger17/Wourkout-Controller/blob/main/assets/OptionsScreen.PNG)
 
-Auf der linken Seite des Bildschirms sind die vom user erstellten Workouts zu sehen. Wählt er eine dieser aus, erscheint 
-eine detaillierte Activity, welche detailliertere Angaben zum jeweiligen Workout anzeigt.
+On the left hand side you can see the workouts created by the user. If he picks one, a detailled activity will apear, which shows detailed data consinderning the workout such as used weight, amount of wreps, amount of sets and name of the activity.
 
-## Beschreibung der Anbindung an die API
+## Description of the connection to the API
 
- Über die Public Holidays API von https://www.abstractapi.com/holidays-api wird bestimmt welche Tage Feiertage sind und welche nicht. 
- Bei der Registrierung auf der Seite bekommt man den nötigen API-Key.
+ The Public Holidays API from https://www.abstractapi.com/holidays-api determines which days are public holidays and which are not.
+ When registering on the site, you get the necessary API key.
  
- Es wird ein API Key benötigt um sich auf der Seite anzumelden.
+ An API key is required to log in to the site.
