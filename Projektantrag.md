@@ -1,7 +1,7 @@
 # project application
 
 ## Description
-Workout-Controller should be a userfriendly applikation, the user should be abled to save workouts. The user should be abled to create his own workouts as well as the amount of weights that were used and the repetitions for each exersice(You have to be abled to edit and save them). Furthermore you have to be abled to take before/after pictures . Another Feature is that you will get a notification is closed today due to a holiday(API).
+Workout-Controller should be a userfriendly applikation, the user should be abled to save workouts. The user should be abled to create his own workouts as well as the amount of weights that were used and the repetitions for each exersice(You have to be abled to edit and save them). Furthermore you have to be abled to take before/after pictures . Another Feature is that you will get a notification that the gym is closed today due to a holiday(API).
 
 ## Mockups
 ![](https://github.com/eleidinger17/Wourkout-Controller/blob/main/assets/MainScreen.PNG)
